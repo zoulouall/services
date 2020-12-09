@@ -1,0 +1,77 @@
+/*------------General-----------*/
+
+body{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    background-color:lightgray;
+}
+
+/*----------entete---------*/
+
+.entete{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:50px;
+    display:flex;
+    justify-content:space-between;
+    background-color:gray;
+}
+
+.logo{
+    margin-left:20px;
+    padding-top:5px;
+    font-size:2em;
+    text-shadow: 4px 2px 2px black;
+    font-weight:bold;
+}
+
+.bismillah{
+    margin-right:20px;
+    padding-top:15px;
+    font-size:1.5em;
+}
+
+/*------------fin entete--------*/
+
+/*-------------debut header-------*/
+
+header{
+    padding:0;
+    margin:0;
+    width:100%;
+    height:250px;
+    background-image:url("img/anis-coquelet-LanJEVFzxPw-unsplash (1).jpg");
+    background-size:80%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hadith{
+    padding:0;
+    margin:0;
+    background-color:lightgray;
+    text-align:center;
+    font-size:1.3em;
+    font-weight:bold;
+}
+
+/*-----------fin header----------*/
+
+/*-----------debut section--------*/
+
+section{
+    padding:0;
+    margin:0;
+    height:600px;
+    background-image:url("img/laura-adai-oPxm1Gr1veQ-unsplash.jpg");
+    background-size: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+   }
+
+.art{
+   
+
